@@ -14,7 +14,7 @@ import pages.LoginPage;
 
 /**
  * @author Lenovo
- *
+ *This script is for login the HRM Application
  */
 public class LoginTest {
 
